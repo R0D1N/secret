@@ -1,4 +1,4 @@
-import { StyleSheet, View } from 'react-native';
+import { StyleSheet, View, TouchableOpacityBase, Text } from 'react-native';
 import Registration from './components/Registration';
 
 export default function App() {
